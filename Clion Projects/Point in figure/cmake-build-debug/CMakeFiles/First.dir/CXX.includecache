@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/GEORG/Desktop/GEORG/Clion Projects/Point in figure/Vector.h
+iostream
+-
+time.h
+-
+cstdlib
+-
+cmath
+-
+
+C:/Users/GEORG/Desktop/GEORG/Clion Projects/Point in figure/main.cpp
+iostream
+-
+time.h
+-
+cstdlib
+-
+Vector.h
+C:/Users/GEORG/Desktop/GEORG/Clion Projects/Point in figure/Vector.h
+

@@ -1,0 +1,7 @@
+﻿  LABA OTCHET.cpp
+D:\code\Проекты\LABA 11 OTCHET\LABA 11 OTCHET\LABA OTCHET.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\code\Проекты\LABA 11 OTCHET\LABA 11 OTCHET\LABA OTCHET.cpp(151,28): warning C4244: инициализация: преобразование "double" в "unsigned __int64", возможна потеря данных
+D:\code\Проекты\LABA 11 OTCHET\LABA 11 OTCHET\LABA OTCHET.cpp(153,19): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+D:\code\Проекты\LABA 11 OTCHET\LABA 11 OTCHET\LABA OTCHET.cpp(155,19): warning C4244: инициализация: преобразование "unsigned __int64" в "unsigned int", возможна потеря данных
+D:\code\Проекты\LABA 11 OTCHET\LABA 11 OTCHET\LABA OTCHET.cpp(1605,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LABA 11 OTCHET.vcxproj -> D:\code\Проекты\LABA 11 OTCHET\Debug\LABA 11 OTCHET.exe
